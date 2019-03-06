@@ -1,5 +1,7 @@
 # jvm内存结构(运行时数据区)
 ![JVM运行时数据区](media/JVM%E8%BF%90%E8%A1%8C%E6%97%B6%E6%95%B0%E6%8D%AE%E5%8C%BA.png)
+* jdk8 开始移除了永久代，变成了Metaspace(元空间，存储类信息之类)，常量池移动到了方法区
+
 # java 对象模型
 ![opp-klass模型](media/opp-klass%E6%A8%A1%E5%9E%8B.jpeg)
 
