@@ -245,6 +245,7 @@ public static boolean wrongGetLock2(Jedis jedis, String lockKey, int expireTime)
  提高了并发量，但代码实现起来较为复杂。 
  
 # 缓存的常见问题
+https://www.jianshu.com/p/ea4fa7ca4fd4
  
 ## 缓存不一致问题
  
