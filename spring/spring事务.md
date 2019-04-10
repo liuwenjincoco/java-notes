@@ -25,7 +25,7 @@ class proxy$A{
     }
     
     void a(){
-        b();
+        obj.b();
     }
 }
 

@@ -487,4 +487,6 @@
 * HSDIS
     JIT生成代码反汇编
 * BTrace
-    visualVM的插件，动态日志追踪，程序运行时，增量加入日志代码，以调试程序        
+    visualVM的插件，动态日志追踪，程序运行时，增量加入日志代码，以调试程序
+* HSDB
+    sudo java -cp /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/lib/sa-jdi.jar sun.jvm.hotspot.HSDB        
